@@ -13,4 +13,4 @@ I made this in 2020, and forgot a ton of the details... But I think it's somethi
 
 - Run **script_2.py** inside the **bossfights_newsize.xcf**
 
-I didn't really check, though. It's been five years. Good luck!
+I didn't really check, though. It's been five years, and I decided I'm not cleaning this up for presentation. This is a dump of all the files. Good luck!
